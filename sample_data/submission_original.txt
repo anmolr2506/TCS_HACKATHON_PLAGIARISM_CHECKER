@@ -1,0 +1,1 @@
+Quantum entanglement allows spatially separated particles to exhibit instantaneous correlations across arbitrarily large distances. Quantum key distribution protocols leverage the no-cloning theorem to detect eavesdropping attempts on optical communication channels. Superconducting qubits maintain coherence at sub-kelvin temperatures to execute multi-qubit gate operations.

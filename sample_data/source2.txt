@@ -1,0 +1,1 @@
+Distributed consensus protocols ensure data consistency across multiple node replicas even during network partitions. Algorithms like Raft decompose consensus into leader election, log replication, and safety enforcement. Nodes operate as leaders, followers, or candidates, maintaining a replicated state machine across independent servers.

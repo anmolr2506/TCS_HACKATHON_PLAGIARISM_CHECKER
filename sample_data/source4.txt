@@ -1,0 +1,1 @@
+Public Key Infrastructure utilizes asymmetric cryptographic key pairs for secure data encryption and digital identity verification. RSA encryption relies on the computational difficulty of factoring the product of two large prime numbers. Digital certificates issued by Certificate Authorities establish trust chains and mitigate man-in-the-middle exploits.
