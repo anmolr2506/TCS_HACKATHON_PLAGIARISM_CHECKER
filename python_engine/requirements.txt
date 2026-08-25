@@ -1,0 +1,9 @@
+# Core Data Processing Libraries
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Future integration libraries (Step 2+):
+# pytesseract>=0.3.10
+# pillow>=10.0.0
+# requests>=2.31.0
+# psycopg2-binary>=2.9.9
