@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Plagiarism Checker Sample Dataset
 
 This directory contains a controlled, deterministic dataset for testing the plagiarism detection engine.
@@ -44,12 +43,3 @@ This directory contains a controlled, deterministic dataset for testing the plag
     - *Submission*: `"Digital certificates issued by Certificate Authorities establish trust chains and mitigate man-in-the-middle exploits."`
   - **Sentence 6** (*Completely Original*):
     - *Submission*: `"Regularization techniques such as dropout prevent neural networks from overfitting on noisy training sets."`
-=======
-# Sample Data Directory
-
-This folder holds sample datasets and test documents for validating plagiarism detection, OCR extraction, and semantic similarity scoring in upcoming steps.
-
-## Structure:
-- `original_samples/`: Baseline reference articles and papers.
-- `suspicious_samples/`: Test inputs containing verbatim copies, paraphrased content, and scanned text for OCR testing.
->>>>>>> 0202a36bc8bda9a302f6ae17aca3d08f5a30f623
