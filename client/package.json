@@ -1,0 +1,9 @@
+{
+  "name": "plagiarism-checker-client",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "echo \"Add your frontend dev command here\"",
+    "build": "echo \"Add your frontend build command here\""
+  }
+}
